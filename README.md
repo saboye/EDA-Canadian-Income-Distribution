@@ -10,3 +10,10 @@
 - Prestige:The average prestige rating for the occupation.
 - Census: The code of the occupation used in the survey.
 - Type: Professional and managerial(prof), white collar(wc), blue collar(bc), or missing(NA)
+
+#### Analysis Task
+####Exploratory Data Analysis:
+To find if there is a direct relation between the income and the level of education in Canada.
+
+<img src="/images/Education.png" alt="Education Distribution" > 
+<img src="/images/Income.png" alt="Income Distribution" >
