@@ -12,7 +12,7 @@
 - Type: Professional and managerial(prof), white collar(wc), blue collar(bc), or missing(NA)
 
 #### Analysis Task
-####Exploratory Data Analysis:
+#### Exploratory Data Analysis:
 To find if there is a direct relation between the income and the level of education in Canada.
 
 <img src="/images/Education.png" alt="Education Distribution" > 
