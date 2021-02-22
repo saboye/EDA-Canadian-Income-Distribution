@@ -17,3 +17,9 @@ To find if there is a direct relation between the income and the level of educat
 
 <img src="/images/Education.png" alt="Education Distribution" > 
 <img src="/images/Income.png" alt="Income Distribution" >
+
+### Correlation 
+<img src="/images/Correlation.png" alt="Correlation  Distribution" > 
+
+### Correlation 
+<img src="/images/Reression.png" alt="Correlation  Distribution" > 
