@@ -36,7 +36,7 @@ To find if there is a direct relation between the income and the level of educat
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Nazeh/EDA-Canadian-Income-Distribution/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/saboye/EDA-Canadian-Income-Distribution/issues).
 
 ## Show your support
 
