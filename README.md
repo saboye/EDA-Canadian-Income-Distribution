@@ -1,7 +1,6 @@
 <h1 align="center">Exploratory data analysis 📊</h1>
 <h1 align="center">Canadian Income Distribution</h1>
-```
-```
+
  <h3> Data Set</h3>
   The Prestige data set has 102 rows and 6 variables.The data set is found <a href="https://socialsciences.mcmaster.ca/jfox/books/Companion/data/Prestige.txt">Fox and Weisberg 2011</a>
 
