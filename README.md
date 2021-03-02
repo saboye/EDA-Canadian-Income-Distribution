@@ -1,5 +1,5 @@
-# EDA Canadian Income Distribution
-
+<h1 align="center">Exploratory data analysis 📊</h1>
+<h1 align="center">Canadian Income Distribution</h1>
 ### Data Set
  The Prestige data set has 102 rows and 6 variables.The data set is found [here](https://socialsciences.mcmaster.ca/jfox/books/Companion/data/Prestige.txt)(Fox and Weisberg 2011)
  
