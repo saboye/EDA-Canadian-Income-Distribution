@@ -42,7 +42,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [saboye](https://github.com/saboye).<br />
+Copyright © 2021 [saboye](https://github.com/saboye).<br />
 This project is [MIT](https://github.com/saboye/EDA-Canadian-Income-Distribution/blob/master/LICENSE) licensed.
 
 ***
