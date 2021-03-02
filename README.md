@@ -1,7 +1,10 @@
 <h1 align="center">Exploratory data analysis 📊</h1>
 <h1 align="center">Canadian Income Distribution</h1>
-### Data Set
- The Prestige data set has 102 rows and 6 variables.The data set is found [here](https://socialsciences.mcmaster.ca/jfox/books/Companion/data/Prestige.txt)(Fox and Weisberg 2011)
+```
+```
+ <h3> Data Set</h3>
+  The Prestige data set has 102 rows and 6 variables.The data set is found <a href="https://socialsciences.mcmaster.ca/jfox/books/Companion/data/Prestige.txt">Fox and Weisberg 2011</a>
+
  
  #### Varaibles 
 - Education: The average number of years of education for occupational incumbents.
@@ -27,7 +30,7 @@ To find if there is a direct relation between the income and the level of educat
 
 ## Author
 
-👤 **Ar Nazeh**
+👤 **SABOYE**
 
 * Twitter: [@saboye1](https://twitter.com/saboye1 )
 * Github: [@saboye](https://github.com/saboye)
