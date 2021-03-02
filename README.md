@@ -23,3 +23,26 @@ To find if there is a direct relation between the income and the level of educat
 
 ### Model 
 <img src="/images/Reression.png" alt="Correlation  Distribution" > 
+
+
+## Author
+
+👤 **Ar Nazeh**
+
+* Twitter: [@saboye1](https://twitter.com/saboye1 )
+* Github: [@saboye](https://github.com/saboye)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Nazeh/EDA-Canadian-Income-Distribution/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2019 [saboye](https://github.com/saboye).<br />
+This project is [MIT](https://github.com/saboye/EDA-Canadian-Income-Distribution/blob/master/LICENSE) licensed.
+
+***
