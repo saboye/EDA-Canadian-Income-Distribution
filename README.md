@@ -1,6 +1,10 @@
 <h1 align="center">Exploratory data analysis 📊</h1>
 <h1 align="center">Canadian Income Distribution</h1>
 
+## Overview
+
+This project aims to conduct a simple Exploratory Data Analysis (EDA) to investigate whether there is a relationship between income and education level in Canada. By exploring and visualizing the data, we can determine whether individuals with higher levels of education tend to have higher incomes or if there are other factors at play. This information can be valuable for policymakers, educators, and individuals looking to make informed decisions about their education and career paths.
+
  <h3> Data Set</h3>
   The Prestige data set has 102 rows and 6 variables.The data set is found <a href="https://socialsciences.mcmaster.ca/jfox/books/Companion/data/Prestige.txt">Fox and Weisberg 2011</a>
 
@@ -14,7 +18,11 @@
 - Type: Professional and managerial(prof), white collar(wc), blue collar(bc), or missing(NA)
 
 #### Analysis Task
+EDA is a valuable approach for understanding and summarizing the main characteristics of a dataset, identifying patterns and relationships within the data, and identifying any potential outliers or anomalies. It is an important first step in data analysis and can help guide more in-depth analysis and modeling.
+
 #### Exploratory Data Analysis:
+To conduct an EDA of the relationship between income and education level in Canada, we will use a dataset from Fox and Weisberg 2011. we can then use various data visualization techniques, such as scatter plots and box plots, to explore the relationship between the two variables.
+
 To find if there is a direct relation between the income and the level of education in Canada.
 
 <img src="/images/Education.png" alt="Education Distribution" > 
